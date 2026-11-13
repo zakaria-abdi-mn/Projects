@@ -1,0 +1,8 @@
+node_modules
+.next
+next-env.d.ts
+*.tsbuildinfo
+.env
+.env.local
+# Plaid access tokens + net-worth history. Never commit these.
+data/*.json
